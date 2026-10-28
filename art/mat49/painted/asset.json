@@ -1,0 +1,19 @@
+{
+  "origin": "image_gen edit of the approved painted sprite",
+  "status": "painted idle pose; right hand lowered beneath rear receiver; animation not yet authored",
+  "canvas": [
+    320,
+    200
+  ],
+  "spriteOrigin": [
+    0,
+    22
+  ],
+  "runtimeWeaponModel": false,
+  "historicalAccuracy": "not certified",
+  "style": "painted retro FPS, original approved reference",
+  "blenderFramesUsed": false,
+  "reviewStatus": "rejected: forward magazine/housing is incorrectly drawn along the left flank",
+  "requiredCorrection": "move forward magazine and housing underneath receiver on its central plane; move left support hand underneath; retain approved painted style",
+  "lastEdit": "not applied: image service rejected input, category violence"
+}

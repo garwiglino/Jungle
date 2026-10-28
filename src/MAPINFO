@@ -1,0 +1,39 @@
+gameinfo
+{
+ PlayerClasses = "Soldat"
+ AddEventHandlers = "CriqueHUD"
+ TitlePage = "TITLEPIC"
+ QuitSound = ""
+ StatusBarClass = "CriqueBar"
+}
+clearepisodes
+episode MAP01 { name = "Operation Lisiere" }
+clearskills
+skill normal
+{
+ name = "Reconnaissance"
+ SpawnFilter = Normal
+ DefaultSkill
+}
+map MAP01 "01 / Crique des Ombres"
+{
+ sky1 = "SKYGUI"
+ next = "EndGameC"
+ allowcrouch
+ allowjump
+ aircontrol = 0.25
+ nointermission
+}
+DoomEdNums
+{
+ 15001 = Milicien
+ 15002 = Raptor
+ 15003 = DataCase
+ 15004 = Extraction
+ 15005 = GrandArbre
+ 15006 = Fougere
+ 15007 = Trousse
+ 15008 = Reserve
+ 15009 = Caisse
+ 15010 = Pirogue
+}

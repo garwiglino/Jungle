@@ -1,0 +1,15 @@
+{
+  "Software": "UZDoom 5.0.3",
+  "Engine": "UZDOOM",
+  "Save Version": 4560,
+  "GameUUID": "CFD8DEF4-C579-4826-97A9-887C8CAA09E5",
+  "Title": "checkpoint",
+  "Current Map": "MAP01",
+  "AllowLoadIn": [
+    "LZDOOM"
+  ],
+  "Game WAD": "crique.ipk3",
+  "Map WAD": "crique.ipk3",
+  "Creation Time": "2026-10-26 09:58:50",
+  "Comment": "MAP01 - 01 / Crique des Ombres\nTime: 00:00:18"
+}

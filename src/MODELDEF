@@ -1,0 +1,16 @@
+Model Caisse
+{
+ Path "models"
+ Model 0 "crate.obj"
+ Skin 0 "wood.png"
+ Scale 1 1 1
+ FrameIndex CASE A 0 0
+}
+Model Pirogue
+{
+ Path "models"
+ Model 0 "boat.obj"
+ Skin 0 "wood.png"
+ Scale 1 1 1
+ FrameIndex CASE A 0 0
+}

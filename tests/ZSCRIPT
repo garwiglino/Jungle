@@ -1,0 +1,80 @@
+version "4.14"
+class CriqueProbe : Actor
+{
+ override void PostBeginPlay()
+ {
+  Super.PostBeginPlay(); let p=Soldat(players[0].mo);
+  let w=Fusil(p.player.ReadyWeapon); let a=p.FindInventory("Cartouches");
+  Console.Printf("CRIQUE_PROBE health=%d recovered=%d complete=%d mag=%d reserve=%d pos=(%d,%d)",p.health,p.recovered,p.complete,w?w.loaded:-1,a?a.Amount:0,int(p.pos.x),int(p.pos.y));
+  Destroy();
+ }
+ States { Spawn: TNT1 A -1; Stop; }
+}
+class CriqueRouteTest : Actor
+{
+ void Check(bool result, String label) { Console.Printf("CRIQUE_TEST %s %s",result?"PASS":"FAIL",label); }
+ bool Walk(Actor p, Vector2 goal)
+ {
+  int guard=1000;
+  while((goal-p.pos.xy).Length()>2 && guard-->0)
+  {
+   Vector2 d=goal-p.pos.xy; double len=d.Length(); d*=min(8.,len)/len;
+   if(!p.TryMove(p.pos.xy+d,0)) { Console.Printf("BLOCKED %d %d z=%d goal=%d,%d",int(p.pos.x),int(p.pos.y),int(p.pos.z),int(goal.x),int(goal.y)); return false; }
+  }
+  return guard>0;
+ }
+ override void PostBeginPlay()
+ {
+  Super.PostBeginPlay();
+  let it=ThinkerIterator.Create("Milicien"); Actor a;
+  while(a=Actor(it.Next())) a.Destroy();
+  let p=Soldat(players[0].mo); Vector3 initial=p.pos;
+  // Both paths traversed with real actor collision and no noclip.
+  Check(Walk(p,(2176,1152)) && Walk(p,(1152,1152)) && Walk(p,(1152,4992)) && Walk(p,(2176,4992)) && Walk(p,(2176,5708)),"WEST_ROUTE");
+  p.SetOrigin(initial,false);
+  Check(Walk(p,(2176,1152)) && Walk(p,(3200,1152)) && Walk(p,(3200,4992)) && Walk(p,(2176,4992)) && Walk(p,(2176,5708)),"EAST_ROUTE");
+  p.SetOrigin(initial,false);
+  // Sight uses solid map geometry. Foliage sprites do not block sight.
+  let guard=Milicien(Spawn("Milicien",(1152,3000,0)));
+  p.SetOrigin((1300,3000,0),false); guard.angle=0;
+  guard.Tick(); Check(guard.CheckSight(p),"VISIBLE_SAME_CORRIDOR");
+  p.SetOrigin((3200,3000,0),false);
+  Check(!guard.CheckSight(p),"CENTRAL_MASSIF_OCCLUDES");
+  guard.Destroy(); p.SetOrigin(initial,false);
+  Destroy();
+ }
+ States { Spawn: TNT1 A -1; Stop; }
+}
+class CriqueAITest : Actor
+{
+ bool done;
+ void Check(bool result, String label) { Console.Printf("CRIQUE_TEST %s %s",result?"PASS":"FAIL",label); }
+ override void Tick()
+ {
+  Super.Tick(); if(done || level.maptime%35!=0)return; done=true;
+  let it=ThinkerIterator.Create("Milicien"); Actor a; while(a=Actor(it.Next()))a.Destroy();
+  let p=Soldat(players[0].mo); Vector3 initial=p.pos; p.noiseUntil=0;
+  let g=Milicien(Spawn("Milicien",(1152,3000,0)));
+  p.SetOrigin((1152,3600,0),false); g.angle=270;g.Tick();Check(g.mode==0,"OUTSIDE_VISION_CONE");
+  g.angle=90; p.player.cmd.buttons=BT_CROUCH; g.Tick();Check(g.mode==0,"CROUCH_BEYOND_420");
+  p.player.cmd.buttons=0; g.angle=90;g.cooldown=50;g.Tick();Check(g.mode==2,"STANDING_WITHIN_850_ALERTS");
+  g.mode=0;g.memory=0;g.target=null;g.angle=270;p.SetOrigin((1900,3000,0),false);p.MakeNoise(70);g.Tick();Check(g.mode==1,"RADIAL_NOISE_INVESTIGATION_THROUGH_WALL");
+  p.noiseUntil=0; g.Destroy();p.SetOrigin((1152,3500,0),false);
+  let r=Raptor(Spawn("Raptor",(1152,3555,0)));r.angle=270;
+  int hp=p.health;r.Tick();Check(p.health==hp-12,"RAPTOR_MELEE_DAMAGE");r.Destroy();
+  p.health=100;int dealt=p.DamageMobj(self,self,17,'Normal');Check(p.health==83,"PLAYER_DAMAGE");
+  p.DamageMobj(self,self,200,'Normal');Check(p.health<=0,"PLAYER_DEATH");
+  Destroy();
+ }
+ States { Spawn: TNT1 A -1; Stop; }
+}
+class CriqueViewBoat : Actor
+{
+ override void PostBeginPlay() { Super.PostBeginPlay(); let p=players[0].mo; p.SetOrigin((2048,450,0),false);p.angle=270;p.pitch=10; Destroy(); }
+ States { Spawn: TNT1 A -1; Stop; }
+}
+class CriqueViewCrate : Actor
+{
+ override void PostBeginPlay() { Super.PostBeginPlay(); let p=players[0].mo; p.SetOrigin((1586,4700,0),false);p.angle=90;p.pitch=8; Destroy(); }
+ States { Spawn: TNT1 A -1; Stop; }
+}

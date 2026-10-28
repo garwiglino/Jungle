@@ -1,0 +1,79 @@
+/workspace/crique/runtime/engine/usr/bin/uzdoom
+UZDoom version 5.0.3
+Build: SDL2 dated 2026-09-23T17:07:17-04:00
+OS: Debian GNU/Linux 13 (trixie), Linux 6.18.55 on x86_64
+M_LoadDefaults: Load system defaults.
+W_Init: Init WADfiles.
+adding /workspace/crique/runtime/engine/usr/bin/uzdoom.pk3, 734 lumps
+adding /workspace/crique/dist/crique.ipk3, 118 lumps
+adding /workspace/crique/build/tests.pk3, 1 lumps
+S_Init: Setting up sound.
+I_InitSound: Initializing OpenAL
+  Opened device No Output
+  EFX enabled
+ALSA lib seq_hw.c:540:(snd_seq_hw_open) open /dev/snd/seq failed: No such file or directory
+No GENMIDI lump found. OPL playback not available.
+I_Init: Setting up machine state.
+CPU Vendor ID: AuthenticAMD
+  Name: AMD EPYC 9V74 80-Core Processor 
+  Family 25 (25), Model 17, Stepping 1
+  Features: SSE2 SSE3 SSSE3 SSE4.1 SSE4.2 AVX AVX2 AVX512 F16C FMA3 BMI1 BMI2 HyperThreading
+Selecting OpenGL backend...
+ST_Init: Init startup screen.
+Checking cmd-line parameters...
+S_InitData: Load sound definitions.
+G_ParseMapInfo: Load map definitions.
+Texman.Init: Init texture manager.
+f 2
+ParseTeamInfo: Load team definitions.
+LoadActors: Load actor definitions.
+script parsing took 387.35 ms
+Key already bound to "+reload"
+Key already bound to "+use"
+Key already bound to "+forward"
+Key already bound to "+back"
+Key already bound to "+moveleft"
+Key already bound to "+moveright"
+Key already bound to "+speed"
+Key already bound to "+crouch"
+Key already bound to "+jump"
+R_Init: Init Crique refresh subsystem.
+DecalLibrary: Load decals.
+M_Init: Init menus.
+P_Init: Init Playloop state.
+ParseSBarInfo: Loading default status bar definition.
+ParseSBarInfo: Loading custom status bar definition.
+D_CheckNetGame: Checking network game status.
+Using video driver x11
+Number of detected displays 1 .
+Creating window [1024x576] on adapter 0
+Number of detected displays 1 .
+Creating window [1024x576] on adapter 0
+GL_VENDOR: Mesa
+GL_RENDERER: llvmpipe (LLVM 19.1.7, 256 bits)
+GL_VERSION: 4.5 (Core Profile) Mesa 25.0.7-2+deb13u1 (Core profile)
+GL_SHADING_LANGUAGE_VERSION: 4.50
+
+Max. texture size: 16384
+Max. texture units: 32
+Max. varying: 128
+Max. combined shader storage blocks: 80
+Max. vertex shader storage blocks: 16
+Resolution: 640 x 480
+V_Init: allocate screen.
+Init complete.
+
+----------------------------------------
+
+MAP01 - 01 / Crique des Ombres
+
+]summon CriqueAITest
+CRIQUE_TEST PASS OUTSIDE_VISION_CONE
+CRIQUE_TEST PASS CROUCH_BEYOND_420
+CRIQUE_TEST PASS STANDING_WITHIN_850_ALERTS
+CRIQUE_TEST PASS RADIAL_NOISE_INVESTIGATION_THROUGH_WALL
+CRIQUE_TEST PASS RAPTOR_MELEE_DAMAGE
+CRIQUE_TEST PASS PLAYER_DAMAGE
+Player died.
+CRIQUE_TEST PASS PLAYER_DEATH
+]quit

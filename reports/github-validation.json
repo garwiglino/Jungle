@@ -1,0 +1,30 @@
+{
+  "passed": [
+    "ZIP CRC / paths",
+    "PNG decoding / sprite origins",
+    "WAV PCM format",
+    "standalone core resources",
+    "UDMF vertex/sector/side references"
+  ],
+  "files": 128,
+  "date": "2026-10-28",
+  "engine": "UZDoom 5.0.3",
+  "sha256": "99e630d00142d235b182f0d3bfc8baf9c772bed0c1b0d37fe19c92d778431c55",
+  "gui_checks": [
+    "rifle fire and reload",
+    "pistol fire with held mouse button",
+    "objective required before extraction",
+    "objective recovery",
+    "save and load",
+    "successful extraction",
+    "both collision routes",
+    "sight occlusion",
+    "seven AI and damage assertions"
+  ],
+  "limits": [
+    "diagnostic god/warp used for objective loop",
+    "no complete normal human playthrough",
+    "no real audio listening",
+    "Windows launcher untested"
+  ]
+}

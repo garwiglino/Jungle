@@ -1,0 +1,41 @@
+{
+  "mesh": "MakeHuman base.obj CC0, right arm extracted without reflection",
+  "source": "https://github.com/makehumancommunity/makehuman/blob/master/makehuman/data/3dobjs/base.obj",
+  "same_geometry_all_views": true,
+  "same_texture_all_views": true,
+  "views": [
+    [
+      "01-dos",
+      0
+    ],
+    [
+      "02-profil-pouce",
+      90
+    ],
+    [
+      "03-paume",
+      180
+    ],
+    [
+      "04-profil-externe",
+      270
+    ],
+    [
+      "05-trois-quarts",
+      45
+    ]
+  ],
+  "vertices": 2154,
+  "faces": 2135,
+  "dorsal_camera_normal": [
+    -0.929398238658905,
+    0.3690784275531769,
+    0.0
+  ],
+  "thumb_direction": [
+    -0.3690784275531769,
+    -0.929398238658905,
+    0.0
+  ],
+  "status": "anatomical blockout with provisional garment and material finish"
+}

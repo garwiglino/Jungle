@@ -1,0 +1,25 @@
+{
+  "origin": "original procedural Blender geometry, materials and animation, CC0-1.0",
+  "status": "prototype sprites; pose corrected by modeled grip below receiver; not a historical replica",
+  "canvas": [
+    320,
+    200
+  ],
+  "spriteOrigin": [
+    0,
+    22
+  ],
+  "frames": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H"
+  ],
+  "gun3DInEngine": false,
+  "sourceBlend": "blender/mat49-pose.blend",
+  "previousImage": "legacy/previous-side-grip.png is the previous pose, not used by current PK3"
+}

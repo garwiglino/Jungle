@@ -1,0 +1,10 @@
+CRIQUE — prototype original, 2026.
+
+Code ZScript, outils Python et scripts shell : GPL-3.0-or-later.
+Les sources sont incluses. Texte GPL : LICENSES/GPL-3.0.txt.
+Textures, sprites dessinés, modèles et sons originaux générés par les outils du
+projet : CC0-1.0 (dédicace au domaine public, sans garantie).
+Exception : textes graphiques rasterisés avec DejaVu Sans — voir LICENSES/DejaVu.txt.
+Polices et ressources internes à UZDoom : licences respectives du moteur.
+Le moteur n'est pas redistribué dans l'archive du projet ; le lanceur télécharge
+le binaire officiel épinglé. Aucune ressource d'un IWAD commercial n'est incluse.

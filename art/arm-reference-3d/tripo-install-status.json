@@ -1,0 +1,14 @@
+{
+  "installed": "tripo-cli@0.7.2",
+  "version_check": "0.7.2",
+  "doctor": "not authenticated; API key missing",
+  "dry_run": "valid, no requests submitted",
+  "model": "tripo-v3.1 / v3.1-20260211",
+  "login": "failed exit 7; authorization service unreachable",
+  "required_hosts": [
+    "apiplatform.tripo3d.ai",
+    "openapi.tripo3d.ai"
+  ],
+  "paid_generation_submitted": false,
+  "credits_spent": 0
+}

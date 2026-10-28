@@ -1,0 +1,16 @@
+{
+  "origin": "image_gen, original artistic multiview reference",
+  "sourceDimensions": [
+    1536,
+    1024
+  ],
+  "views": [
+    "01-cote-droit",
+    "02-cote-gauche",
+    "03-dessus",
+    "04-trois-quarts"
+  ],
+  "status": "provisional visual reference; not a validated 3D model or historically certified reproduction",
+  "assetInGame": false,
+  "processing": "technical panel extraction, no visual retouch"
+}

@@ -1,0 +1,11 @@
+addkeysection "CRIQUE" Crique
+addmenukey "Recharger" +reload
+defaultbind r +reload
+defaultbind e +use
+defaultbind w +forward
+defaultbind s +back
+defaultbind a +moveleft
+defaultbind d +moveright
+defaultbind SHIFT +speed
+defaultbind CTRL +crouch
+defaultbind SPACE +jump

@@ -1,0 +1,15 @@
+version "4.14"
+// Painted idle-pose inspection. Animations are intentionally not mixed with rejected renders.
+class MAT49Preview : Fusil
+{
+ override void PostBeginPlay() { Super.PostBeginPlay(); capacity=32; loaded=32; }
+ Default { Weapon.SlotNumber 3; Weapon.SelectionOrder 50; }
+ States
+ {
+ Spawn: M49P A -1; Stop;
+ Select: M49P A 1 A_Raise; Loop;
+ Deselect: M49P A 1 A_Lower; Loop;
+ Ready: M49P A 1 A_WeaponReady(WRF_NOFIRE); Loop;
+ Fire: Goto Ready;
+ }
+}

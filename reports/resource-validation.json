@@ -1,0 +1,10 @@
+{
+  "passed": [
+    "ZIP CRC / paths",
+    "PNG decoding / sprite origins",
+    "WAV PCM format",
+    "standalone core resources",
+    "UDMF vertex/sector/side references"
+  ],
+  "files": 128
+}

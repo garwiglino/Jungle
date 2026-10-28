@@ -1,0 +1,30 @@
+version "4.14"
+// All runtime frames are PNG sprites rendered from an original Blender scene.
+class MAT49Preview : Fusil
+{
+ override void PostBeginPlay() { Super.PostBeginPlay(); capacity=32; loaded=32; }
+ Default
+ {
+  Weapon.SlotNumber 3;
+  Weapon.SelectionOrder 50;
+  Inventory.PickupMessage "MAT 49 / sprites avec prise sous le boitier";
+ }
+ action void FireMAT49()
+ {
+  let w=Fusil(invoker); if(w.loaded<=0) return;
+  w.loaded--; A_StartSound("crique/pistol",CHAN_WEAPON);
+  A_FireBullets(1.8,1.2,1,9,"ImpactCrique",FBF_NORANDOM|FBF_NOFLASH);
+  A_SetPitch(pitch-0.45);
+  let p=Soldat(self);if(p)p.MakeNoise(55);
+ }
+ States
+ {
+ Spawn: MAT4 A -1; Stop;
+ Select: MAT4 A 1 A_Raise; Loop;
+ Deselect: MAT4 A 1 A_Lower; Loop;
+ Ready: MAT4 A 1 A_WeaponReady(WRF_ALLOWRELOAD); Loop;
+ Fire: MAT4 B 2 FireMAT49; MAT4 C 2; MAT4 A 0 A_ReFire; Goto Ready;
+ Reload: MAT4 D 5 A_StartSound("crique/reload",CHAN_WEAPON);
+  MAT4 E 10; MAT4 F 10; MAT4 G 6 ReloadMagazine; MAT4 H 4; Goto Ready;
+ }
+}

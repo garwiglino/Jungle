@@ -1,0 +1,1219 @@
+[
+  {
+    "path": "textures/MUD.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      128,
+      128
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "textures/LEAF.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      128,
+      128
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "textures/BARK.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      128,
+      128
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "textures/ROCK.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      128,
+      128
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "textures/WOOD.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      128,
+      128
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "textures/METAL.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      128,
+      128
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "textures/WATER.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      128,
+      128
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "textures/ROOF.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      128,
+      128
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "textures/SKYGUI.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      1024,
+      256
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/TREEA0.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      192,
+      256
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/FERNA0.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      80
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/CASEA0.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      80
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/BEACA0.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      80
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/MEDIA0.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      80
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/AMMOA0.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      80
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/IMPAA0.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      20,
+      20
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/IMPAB0.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      20,
+      20
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/MLTCA1.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/MLTCA2.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/MLTCA3.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/MLTCA4.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/MLTCA5.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/MLTCA6.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/MLTCA7.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/MLTCA8.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/MLTCB1.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/MLTCB2.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/MLTCB3.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/MLTCB4.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/MLTCB5.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/MLTCB6.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/MLTCB7.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/MLTCB8.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/MLTCC1.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/MLTCC2.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/MLTCC3.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/MLTCC4.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/MLTCC5.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/MLTCC6.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/MLTCC7.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/MLTCC8.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/MLTCD0.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      32
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/RAPTA1.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/RAPTA2.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/RAPTA3.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/RAPTA4.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/RAPTA5.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/RAPTA6.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/RAPTA7.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/RAPTA8.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/RAPTB1.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/RAPTB2.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/RAPTB3.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/RAPTB4.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/RAPTB5.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/RAPTB6.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/RAPTB7.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/RAPTB8.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/RAPTC1.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/RAPTC2.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/RAPTC3.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/RAPTC4.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/RAPTC5.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/RAPTC6.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/RAPTC7.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/RAPTC8.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      96
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/RAPTD0.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      96,
+      32
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/FRENA0.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      320,
+      200
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/FRENB0.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      320,
+      200
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/FRENC0.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      320,
+      200
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/FREND0.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      320,
+      200
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/FRENE0.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      320,
+      200
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/FRENF0.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      320,
+      200
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/FRENG0.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      320,
+      200
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/FRENH0.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      320,
+      200
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/PAM9A0.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      320,
+      200
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/PAM9B0.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      320,
+      200
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/PAM9C0.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      320,
+      200
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/PAM9D0.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      320,
+      200
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/PAM9E0.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      320,
+      200
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/PAM9F0.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      320,
+      200
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/PAM9G0.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      320,
+      200
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sprites/PAM9H0.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      320,
+      200
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "sounds/rifle.wav",
+    "origin": "synthèse originale tools/build.py",
+    "license": "CC0-1.0",
+    "status": "provisoire — pas un enregistrement de Guyane"
+  },
+  {
+    "path": "sounds/pistol.wav",
+    "origin": "synthèse originale tools/build.py",
+    "license": "CC0-1.0",
+    "status": "provisoire — pas un enregistrement de Guyane"
+  },
+  {
+    "path": "sounds/reload.wav",
+    "origin": "synthèse originale tools/build.py",
+    "license": "CC0-1.0",
+    "status": "provisoire — pas un enregistrement de Guyane"
+  },
+  {
+    "path": "sounds/hit.wav",
+    "origin": "synthèse originale tools/build.py",
+    "license": "CC0-1.0",
+    "status": "provisoire — pas un enregistrement de Guyane"
+  },
+  {
+    "path": "sounds/call.wav",
+    "origin": "synthèse originale tools/build.py",
+    "license": "CC0-1.0",
+    "status": "provisoire — pas un enregistrement de Guyane"
+  },
+  {
+    "path": "sounds/ambient.wav",
+    "origin": "synthèse originale tools/build.py",
+    "license": "CC0-1.0",
+    "status": "provisoire — pas un enregistrement de Guyane"
+  },
+  {
+    "path": "sounds/pickup.wav",
+    "origin": "synthèse originale tools/build.py",
+    "license": "CC0-1.0",
+    "status": "provisoire — pas un enregistrement de Guyane"
+  },
+  {
+    "path": "graphics/M_DOOM.png",
+    "origin": "Rasterisation DejaVu Sans / tools/build.py",
+    "license": "Bitstream-Vera-DejaVu",
+    "status": "prototype",
+    "size": [
+      114,
+      36
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "graphics/M_NGAME.png",
+    "origin": "Rasterisation DejaVu Sans / tools/build.py",
+    "license": "Bitstream-Vera-DejaVu",
+    "status": "prototype",
+    "size": [
+      135,
+      19
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "graphics/M_OPTION.png",
+    "origin": "Rasterisation DejaVu Sans / tools/build.py",
+    "license": "Bitstream-Vera-DejaVu",
+    "status": "prototype",
+    "size": [
+      64,
+      19
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "graphics/M_LOADG.png",
+    "origin": "Rasterisation DejaVu Sans / tools/build.py",
+    "license": "Bitstream-Vera-DejaVu",
+    "status": "prototype",
+    "size": [
+      70,
+      19
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "graphics/M_SAVEG.png",
+    "origin": "Rasterisation DejaVu Sans / tools/build.py",
+    "license": "Bitstream-Vera-DejaVu",
+    "status": "prototype",
+    "size": [
+      105,
+      19
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "graphics/M_QUITG.png",
+    "origin": "Rasterisation DejaVu Sans / tools/build.py",
+    "license": "Bitstream-Vera-DejaVu",
+    "status": "prototype",
+    "size": [
+      62,
+      21
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "graphics/M_EPISOD.png",
+    "origin": "Rasterisation DejaVu Sans / tools/build.py",
+    "license": "Bitstream-Vera-DejaVu",
+    "status": "prototype",
+    "size": [
+      80,
+      19
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "graphics/M_NEWG.png",
+    "origin": "Rasterisation DejaVu Sans / tools/build.py",
+    "license": "Bitstream-Vera-DejaVu",
+    "status": "prototype",
+    "size": [
+      135,
+      19
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "graphics/M_SKILL.png",
+    "origin": "Rasterisation DejaVu Sans / tools/build.py",
+    "license": "Bitstream-Vera-DejaVu",
+    "status": "prototype",
+    "size": [
+      79,
+      19
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "graphics/M_SKULL1.png",
+    "origin": "Rasterisation DejaVu Sans / tools/build.py",
+    "license": "Bitstream-Vera-DejaVu",
+    "status": "prototype",
+    "size": [
+      12,
+      12
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "graphics/M_SKULL2.png",
+    "origin": "Rasterisation DejaVu Sans / tools/build.py",
+    "license": "Bitstream-Vera-DejaVu",
+    "status": "prototype",
+    "size": [
+      12,
+      12
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "graphics/CONBACK.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      640,
+      360
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "graphics/TITLEPIC.png",
+    "origin": "Rasterisation DejaVu Sans / tools/build.py",
+    "license": "Bitstream-Vera-DejaVu",
+    "status": "prototype",
+    "size": [
+      640,
+      360
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "textures/F_SKY1.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      8,
+      8
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "textures/brdr_b.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      8,
+      8
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "textures/brdr_t.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      8,
+      8
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "textures/brdr_l.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      8,
+      8
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "textures/brdr_r.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      8,
+      8
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "textures/brdr_tl.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      8,
+      8
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "textures/brdr_tr.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      8,
+      8
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "textures/brdr_bl.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      8,
+      8
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "path": "textures/brdr_br.png",
+    "origin": "tools/build.py — dessin/procédural original",
+    "license": "CC0-1.0",
+    "status": "prototype",
+    "size": [
+      8,
+      8
+    ],
+    "collision": "définie en ZScript ou géométrie UDMF"
+  },
+  {
+    "name": "crate",
+    "vertices": 72,
+    "triangles": 108,
+    "origin": "base z=0",
+    "scale": "map units: player 56",
+    "uv": true,
+    "license": "CC0-1.0",
+    "status": "prototype; collision actor simplifiee"
+  },
+  {
+    "name": "boat",
+    "vertices": 64,
+    "triangles": 96,
+    "origin": "base z=0",
+    "scale": "map units: player 56",
+    "uv": true,
+    "license": "CC0-1.0",
+    "status": "prototype; collision actor simplifiee"
+  }
+]

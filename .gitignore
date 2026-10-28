@@ -1,0 +1,15 @@
+/vendor/
+/runtime/
+/build/
+/saves/
+/config/
+__pycache__/
+*.blend1
+/dist/*.zip
+/dist/mat49*-preview.pk3
+/dist/package.json
+/benchmarks.txt
+/log-testlog-txt.txt
+.env
+.env.*
+!.env.example

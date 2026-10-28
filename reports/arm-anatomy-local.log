@@ -1,0 +1,263 @@
+Blender 4.3.2
+Fra:1 Mem:26.32M (Peak 27.62M) | Time:00:01.13 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | RIGHT arm, one anatomical source
+Fra:1 Mem:26.32M (Peak 27.62M) | Time:00:01.13 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | one cuff
+Fra:1 Mem:26.93M (Peak 27.62M) | Time:00:01.13 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | nail 5
+Fra:1 Mem:28.51M (Peak 28.51M) | Time:00:01.13 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | nail 4
+Fra:1 Mem:28.52M (Peak 28.52M) | Time:00:01.13 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | nail 3
+Fra:1 Mem:28.52M (Peak 28.52M) | Time:00:01.13 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | nail 2
+Fra:1 Mem:28.52M (Peak 28.52M) | Time:00:01.13 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | nail 1
+Fra:1 Mem:28.52M (Peak 28.52M) | Time:00:01.13 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | single radial cuff button
+Fra:1 Mem:40.53M (Peak 42.66M) | Time:00:01.14 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:27.20M (Peak 42.66M) | Time:00:01.15 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:27.20M (Peak 42.66M) | Time:00:01.15 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:27.20M (Peak 42.66M) | Time:00:01.15 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:27.20M (Peak 42.66M) | Time:00:01.15 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.15 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.15 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.15 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.15 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.15 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.15 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.15 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.15 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.15 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.15 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:29.68M (Peak 42.66M) | Time:00:01.15 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.15 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.15 | Mem:3.28M, Peak:3.28M | Scene, ViewLayer | Updating Geometry BVH MakeHuman right arm anatomical mesh 1/1 | Building BVH
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.15 | Mem:4.90M, Peak:4.90M | Scene, ViewLayer | Updating Geometry BVH MakeHuman right arm anatomical mesh 1/1 | Building BVH 0%
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.16 | Mem:6.83M, Peak:8.45M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.16 | Mem:6.83M, Peak:8.45M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.17 | Mem:12.78M, Peak:15.94M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.17 | Mem:12.78M, Peak:15.94M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:38.35M (Peak 42.66M) | Time:00:01.17 | Mem:12.78M, Peak:15.94M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:38.35M (Peak 42.66M) | Time:00:01.17 | Mem:18.18M, Peak:18.18M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:38.35M (Peak 42.66M) | Time:00:01.17 | Mem:18.18M, Peak:18.18M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:38.35M (Peak 42.66M) | Time:00:01.17 | Mem:18.18M, Peak:18.18M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:38.35M (Peak 42.66M) | Time:00:01.17 | Mem:18.18M, Peak:18.18M | Scene, ViewLayer | Updating Images | Loading tigerstripe-tile.png
+Fra:1 Mem:42.36M (Peak 42.66M) | Time:00:01.18 | Mem:22.18M, Peak:22.18M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:42.36M (Peak 42.66M) | Time:00:01.18 | Mem:22.18M, Peak:22.18M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:42.36M (Peak 42.66M) | Time:00:01.18 | Mem:22.26M, Peak:22.26M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:42.36M (Peak 42.66M) | Time:00:01.18 | Mem:22.26M, Peak:22.26M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:42.36M (Peak 42.66M) | Time:00:01.18 | Mem:22.26M, Peak:22.26M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:42.36M (Peak 42.66M) | Time:00:01.18 | Mem:22.26M, Peak:22.26M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:42.37M (Peak 42.66M) | Time:00:01.18 | Mem:22.18M, Peak:22.26M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:42.37M (Peak 42.66M) | Time:00:01.18 | Mem:22.27M, Peak:22.27M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:42.37M (Peak 42.66M) | Time:00:01.18 | Mem:22.27M, Peak:22.27M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:42.37M (Peak 42.66M) | Time:00:01.18 | Mem:22.27M, Peak:22.27M | Scene, ViewLayer | Sample 0/48
+Fra:1 Mem:72.76M (Peak 72.76M) | Time:00:01.35 | Remaining:00:08.15 | Mem:52.65M, Peak:52.65M | Scene, ViewLayer | Sample 1/48
+Fra:1 Mem:86.26M (Peak 113.26M) | Time:00:08.36 | Mem:52.65M, Peak:52.65M | Scene, ViewLayer | Sample 48/48
+Fra:1 Mem:86.26M (Peak 113.26M) | Time:00:08.36 | Mem:52.65M, Peak:52.65M | Scene, ViewLayer | Finished
+Saved: '/workspace/crique/art/arm-anatomy-local/renders/01-dos.png'
+Time: 00:08.43 (Saving: 00:00.07)
+
+Fra:1 Mem:26.33M (Peak 27.63M) | Time:00:01.08 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | RIGHT arm, one anatomical source
+Fra:1 Mem:26.33M (Peak 27.63M) | Time:00:01.08 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | one cuff
+Fra:1 Mem:28.00M (Peak 28.00M) | Time:00:01.08 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | nail 5
+Fra:1 Mem:28.12M (Peak 28.12M) | Time:00:01.08 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | nail 4
+Fra:1 Mem:28.13M (Peak 28.13M) | Time:00:01.08 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | nail 3
+Fra:1 Mem:28.13M (Peak 28.13M) | Time:00:01.08 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | nail 2
+Fra:1 Mem:28.38M (Peak 28.38M) | Time:00:01.08 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | nail 1
+Fra:1 Mem:28.47M (Peak 28.47M) | Time:00:01.08 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | single radial cuff button
+Fra:1 Mem:40.53M (Peak 42.66M) | Time:00:01.09 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:27.20M (Peak 42.66M) | Time:00:01.09 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:27.20M (Peak 42.66M) | Time:00:01.09 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:27.20M (Peak 42.66M) | Time:00:01.09 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:27.20M (Peak 42.66M) | Time:00:01.09 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.09 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.09 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.09 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.09 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.09 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.09 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.09 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.09 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.09 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.09 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:29.68M (Peak 42.66M) | Time:00:01.09 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.09 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.09 | Mem:3.28M, Peak:3.28M | Scene, ViewLayer | Updating Geometry BVH MakeHuman right arm anatomical mesh 1/1 | Building BVH
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.09 | Mem:4.90M, Peak:4.90M | Scene, ViewLayer | Updating Geometry BVH MakeHuman right arm anatomical mesh 1/1 | Building BVH 0%
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.10 | Mem:6.83M, Peak:8.45M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.10 | Mem:6.83M, Peak:8.45M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.11 | Mem:12.78M, Peak:15.94M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.11 | Mem:12.78M, Peak:15.94M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:38.35M (Peak 42.66M) | Time:00:01.11 | Mem:12.78M, Peak:15.94M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:38.35M (Peak 42.66M) | Time:00:01.11 | Mem:18.18M, Peak:18.18M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:38.35M (Peak 42.66M) | Time:00:01.11 | Mem:18.18M, Peak:18.18M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:38.35M (Peak 42.66M) | Time:00:01.11 | Mem:18.18M, Peak:18.18M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:38.35M (Peak 42.66M) | Time:00:01.11 | Mem:18.18M, Peak:18.18M | Scene, ViewLayer | Updating Images | Loading tigerstripe-tile.png
+Fra:1 Mem:42.36M (Peak 42.66M) | Time:00:01.12 | Mem:22.18M, Peak:22.18M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:42.36M (Peak 42.66M) | Time:00:01.12 | Mem:22.18M, Peak:22.18M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:42.36M (Peak 42.66M) | Time:00:01.12 | Mem:22.26M, Peak:22.26M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:42.36M (Peak 42.66M) | Time:00:01.12 | Mem:22.26M, Peak:22.26M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:42.36M (Peak 42.66M) | Time:00:01.12 | Mem:22.26M, Peak:22.26M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:42.36M (Peak 42.66M) | Time:00:01.12 | Mem:22.26M, Peak:22.26M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:42.37M (Peak 42.66M) | Time:00:01.12 | Mem:22.18M, Peak:22.26M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:42.37M (Peak 42.66M) | Time:00:01.12 | Mem:22.27M, Peak:22.27M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:42.37M (Peak 42.66M) | Time:00:01.12 | Mem:22.27M, Peak:22.27M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:42.37M (Peak 42.66M) | Time:00:01.12 | Mem:22.27M, Peak:22.27M | Scene, ViewLayer | Sample 0/48
+Fra:1 Mem:72.76M (Peak 72.76M) | Time:00:01.29 | Remaining:00:07.71 | Mem:52.65M, Peak:52.65M | Scene, ViewLayer | Sample 1/48
+Fra:1 Mem:86.26M (Peak 113.26M) | Time:00:07.65 | Mem:52.65M, Peak:52.65M | Scene, ViewLayer | Sample 48/48
+Fra:1 Mem:86.26M (Peak 113.26M) | Time:00:07.65 | Mem:52.65M, Peak:52.65M | Scene, ViewLayer | Finished
+Saved: '/workspace/crique/art/arm-anatomy-local/renders/02-profil-pouce.png'
+Time: 00:07.71 (Saving: 00:00.05)
+
+Fra:1 Mem:26.33M (Peak 27.79M) | Time:00:01.06 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | RIGHT arm, one anatomical source
+Fra:1 Mem:26.33M (Peak 27.79M) | Time:00:01.06 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | nail 5
+Fra:1 Mem:26.94M (Peak 27.79M) | Time:00:01.06 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | nail 4
+Fra:1 Mem:27.06M (Peak 27.79M) | Time:00:01.06 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | nail 3
+Fra:1 Mem:28.46M (Peak 28.46M) | Time:00:01.06 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | nail 2
+Fra:1 Mem:28.53M (Peak 28.53M) | Time:00:01.06 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | nail 1
+Fra:1 Mem:28.53M (Peak 28.53M) | Time:00:01.06 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | single radial cuff button
+Fra:1 Mem:40.53M (Peak 42.66M) | Time:00:01.07 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:27.20M (Peak 42.66M) | Time:00:01.07 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:27.20M (Peak 42.66M) | Time:00:01.07 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:27.20M (Peak 42.66M) | Time:00:01.07 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:27.20M (Peak 42.66M) | Time:00:01.07 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.07 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.07 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.07 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.07 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.07 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.07 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.07 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.07 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.07 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.07 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:29.68M (Peak 42.66M) | Time:00:01.08 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.08 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.08 | Mem:3.28M, Peak:3.28M | Scene, ViewLayer | Updating Geometry BVH MakeHuman right arm anatomical mesh 1/1 | Building BVH
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.08 | Mem:4.90M, Peak:4.90M | Scene, ViewLayer | Updating Geometry BVH MakeHuman right arm anatomical mesh 1/1 | Building BVH 0%
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.08 | Mem:6.83M, Peak:8.45M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.08 | Mem:6.83M, Peak:8.45M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.09 | Mem:12.78M, Peak:15.94M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.09 | Mem:12.78M, Peak:15.94M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:38.35M (Peak 42.66M) | Time:00:01.10 | Mem:12.78M, Peak:15.94M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:38.35M (Peak 42.66M) | Time:00:01.10 | Mem:18.18M, Peak:18.18M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:38.35M (Peak 42.66M) | Time:00:01.10 | Mem:18.18M, Peak:18.18M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:38.35M (Peak 42.66M) | Time:00:01.10 | Mem:18.18M, Peak:18.18M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:38.35M (Peak 42.66M) | Time:00:01.10 | Mem:18.18M, Peak:18.18M | Scene, ViewLayer | Updating Images | Loading tigerstripe-tile.png
+Fra:1 Mem:42.36M (Peak 42.66M) | Time:00:01.11 | Mem:22.18M, Peak:22.18M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:42.36M (Peak 42.66M) | Time:00:01.11 | Mem:22.18M, Peak:22.18M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:42.36M (Peak 42.66M) | Time:00:01.11 | Mem:22.26M, Peak:22.26M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:42.36M (Peak 42.66M) | Time:00:01.11 | Mem:22.26M, Peak:22.26M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:42.36M (Peak 42.66M) | Time:00:01.11 | Mem:22.26M, Peak:22.26M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:42.36M (Peak 42.66M) | Time:00:01.11 | Mem:22.26M, Peak:22.26M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:42.37M (Peak 42.66M) | Time:00:01.11 | Mem:22.18M, Peak:22.26M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:42.37M (Peak 42.66M) | Time:00:01.11 | Mem:22.27M, Peak:22.27M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:42.37M (Peak 42.66M) | Time:00:01.11 | Mem:22.27M, Peak:22.27M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:42.37M (Peak 42.66M) | Time:00:01.11 | Mem:22.27M, Peak:22.27M | Scene, ViewLayer | Sample 0/48
+Fra:1 Mem:72.76M (Peak 72.76M) | Time:00:01.29 | Remaining:00:08.34 | Mem:52.65M, Peak:52.65M | Scene, ViewLayer | Sample 1/48
+Fra:1 Mem:86.26M (Peak 113.26M) | Time:00:08.45 | Mem:52.65M, Peak:52.65M | Scene, ViewLayer | Sample 48/48
+Fra:1 Mem:86.26M (Peak 113.26M) | Time:00:08.45 | Mem:52.65M, Peak:52.65M | Scene, ViewLayer | Finished
+Saved: '/workspace/crique/art/arm-anatomy-local/renders/03-paume.png'
+Time: 00:08.51 (Saving: 00:00.06)
+
+Fra:1 Mem:26.33M (Peak 27.22M) | Time:00:01.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | RIGHT arm, one anatomical source
+Fra:1 Mem:26.94M (Peak 27.22M) | Time:00:01.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | one cuff
+Fra:1 Mem:26.94M (Peak 27.22M) | Time:00:01.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | nail 5
+Fra:1 Mem:28.12M (Peak 28.12M) | Time:00:01.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | nail 4
+Fra:1 Mem:28.46M (Peak 28.46M) | Time:00:01.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | nail 3
+Fra:1 Mem:28.46M (Peak 28.46M) | Time:00:01.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | nail 2
+Fra:1 Mem:28.53M (Peak 28.53M) | Time:00:01.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | nail 1
+Fra:1 Mem:28.53M (Peak 28.53M) | Time:00:01.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | single radial cuff button
+Fra:1 Mem:40.53M (Peak 42.66M) | Time:00:01.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:27.20M (Peak 42.66M) | Time:00:01.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:27.20M (Peak 42.66M) | Time:00:01.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:27.20M (Peak 42.66M) | Time:00:01.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:27.20M (Peak 42.66M) | Time:00:01.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.05 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.05 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.05 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.05 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:29.68M (Peak 42.66M) | Time:00:01.06 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.06 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.06 | Mem:3.28M, Peak:3.28M | Scene, ViewLayer | Updating Geometry BVH MakeHuman right arm anatomical mesh 1/1 | Building BVH
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.06 | Mem:4.90M, Peak:4.90M | Scene, ViewLayer | Updating Geometry BVH MakeHuman right arm anatomical mesh 1/1 | Building BVH 0%
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.06 | Mem:6.83M, Peak:8.45M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.06 | Mem:6.83M, Peak:8.45M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.07 | Mem:12.78M, Peak:15.94M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.07 | Mem:12.78M, Peak:15.94M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:38.35M (Peak 42.66M) | Time:00:01.08 | Mem:12.78M, Peak:15.94M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:38.35M (Peak 42.66M) | Time:00:01.08 | Mem:18.18M, Peak:18.18M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:38.35M (Peak 42.66M) | Time:00:01.08 | Mem:18.18M, Peak:18.18M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:38.35M (Peak 42.66M) | Time:00:01.08 | Mem:18.18M, Peak:18.18M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:38.35M (Peak 42.66M) | Time:00:01.08 | Mem:18.18M, Peak:18.18M | Scene, ViewLayer | Updating Images | Loading tigerstripe-tile.png
+Fra:1 Mem:42.36M (Peak 42.66M) | Time:00:01.09 | Mem:22.18M, Peak:22.18M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:42.36M (Peak 42.66M) | Time:00:01.09 | Mem:22.18M, Peak:22.18M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:42.36M (Peak 42.66M) | Time:00:01.09 | Mem:22.26M, Peak:22.26M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:42.36M (Peak 42.66M) | Time:00:01.09 | Mem:22.26M, Peak:22.26M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:42.36M (Peak 42.66M) | Time:00:01.09 | Mem:22.26M, Peak:22.26M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:42.36M (Peak 42.66M) | Time:00:01.09 | Mem:22.26M, Peak:22.26M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:42.37M (Peak 42.66M) | Time:00:01.09 | Mem:22.18M, Peak:22.26M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:42.37M (Peak 42.66M) | Time:00:01.09 | Mem:22.27M, Peak:22.27M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:42.37M (Peak 42.66M) | Time:00:01.09 | Mem:22.27M, Peak:22.27M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:42.37M (Peak 42.66M) | Time:00:01.09 | Mem:22.27M, Peak:22.27M | Scene, ViewLayer | Sample 0/48
+Fra:1 Mem:72.76M (Peak 72.76M) | Time:00:01.26 | Remaining:00:08.09 | Mem:52.65M, Peak:52.65M | Scene, ViewLayer | Sample 1/48
+Fra:1 Mem:86.26M (Peak 113.26M) | Time:00:07.72 | Mem:52.65M, Peak:52.65M | Scene, ViewLayer | Sample 48/48
+Fra:1 Mem:86.26M (Peak 113.26M) | Time:00:07.72 | Mem:52.65M, Peak:52.65M | Scene, ViewLayer | Finished
+Saved: '/workspace/crique/art/arm-anatomy-local/renders/04-profil-externe.png'
+Time: 00:07.80 (Saving: 00:00.07)
+
+Fra:1 Mem:26.33M (Peak 27.63M) | Time:00:01.25 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | RIGHT arm, one anatomical source
+Fra:1 Mem:26.94M (Peak 27.63M) | Time:00:01.25 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | one cuff
+Fra:1 Mem:28.12M (Peak 28.12M) | Time:00:01.25 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | nail 5
+Fra:1 Mem:28.46M (Peak 28.46M) | Time:00:01.25 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | nail 4
+Fra:1 Mem:28.53M (Peak 28.53M) | Time:00:01.25 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | nail 3
+Fra:1 Mem:28.53M (Peak 28.53M) | Time:00:01.25 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | nail 2
+Fra:1 Mem:28.94M (Peak 28.94M) | Time:00:01.25 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | nail 1
+Fra:1 Mem:29.80M (Peak 29.80M) | Time:00:01.25 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | single radial cuff button
+Fra:1 Mem:40.53M (Peak 42.66M) | Time:00:01.26 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:27.20M (Peak 42.66M) | Time:00:01.26 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:27.20M (Peak 42.66M) | Time:00:01.26 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:27.20M (Peak 42.66M) | Time:00:01.26 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:27.20M (Peak 42.66M) | Time:00:01.26 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.26 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.26 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.26 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.26 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.26 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.26 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.26 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.26 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.26 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:27.29M (Peak 42.66M) | Time:00:01.26 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:29.68M (Peak 42.66M) | Time:00:01.27 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.27 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.27 | Mem:3.28M, Peak:3.28M | Scene, ViewLayer | Updating Geometry BVH MakeHuman right arm anatomical mesh 1/1 | Building BVH
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.27 | Mem:4.90M, Peak:4.90M | Scene, ViewLayer | Updating Geometry BVH MakeHuman right arm anatomical mesh 1/1 | Building BVH 0%
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.27 | Mem:6.66M, Peak:8.28M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.27 | Mem:6.66M, Peak:8.28M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.28 | Mem:12.61M, Peak:15.78M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:32.95M (Peak 42.66M) | Time:00:01.28 | Mem:12.61M, Peak:15.78M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:38.35M (Peak 42.66M) | Time:00:01.28 | Mem:12.61M, Peak:15.78M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:38.35M (Peak 42.66M) | Time:00:01.28 | Mem:18.01M, Peak:18.01M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:38.35M (Peak 42.66M) | Time:00:01.28 | Mem:18.01M, Peak:18.01M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:38.35M (Peak 42.66M) | Time:00:01.28 | Mem:18.01M, Peak:18.01M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:38.35M (Peak 42.66M) | Time:00:01.28 | Mem:18.01M, Peak:18.01M | Scene, ViewLayer | Updating Images | Loading tigerstripe-tile.png
+Fra:1 Mem:42.36M (Peak 42.66M) | Time:00:01.30 | Mem:22.01M, Peak:22.01M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:42.36M (Peak 42.66M) | Time:00:01.30 | Mem:22.01M, Peak:22.01M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:42.36M (Peak 42.66M) | Time:00:01.30 | Mem:22.09M, Peak:22.09M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:42.36M (Peak 42.66M) | Time:00:01.30 | Mem:22.09M, Peak:22.09M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:42.36M (Peak 42.66M) | Time:00:01.30 | Mem:22.09M, Peak:22.09M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:42.36M (Peak 42.66M) | Time:00:01.30 | Mem:22.09M, Peak:22.09M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:42.37M (Peak 42.66M) | Time:00:01.30 | Mem:22.01M, Peak:22.09M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:42.37M (Peak 42.66M) | Time:00:01.30 | Mem:22.10M, Peak:22.10M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:42.37M (Peak 42.66M) | Time:00:01.30 | Mem:22.10M, Peak:22.10M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:42.37M (Peak 42.66M) | Time:00:01.30 | Mem:22.10M, Peak:22.10M | Scene, ViewLayer | Sample 0/48
+Fra:1 Mem:72.76M (Peak 72.76M) | Time:00:01.48 | Remaining:00:08.39 | Mem:52.48M, Peak:52.48M | Scene, ViewLayer | Sample 1/48
+Fra:1 Mem:86.26M (Peak 113.26M) | Time:00:08.50 | Mem:52.48M, Peak:52.48M | Scene, ViewLayer | Sample 48/48
+Fra:1 Mem:86.26M (Peak 113.26M) | Time:00:08.50 | Mem:52.48M, Peak:52.48M | Scene, ViewLayer | Finished
+Saved: '/workspace/crique/art/arm-anatomy-local/renders/05-trois-quarts.png'
+Time: 00:08.57 (Saving: 00:00.06)
+
+Info: Saved "right-arm-turnaround.blend"
+
+Blender quit

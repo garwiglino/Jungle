@@ -1,0 +1,22 @@
+[
+  {
+    "name": "crate",
+    "vertices": 72,
+    "triangles": 108,
+    "origin": "base z=0",
+    "scale": "map units: player 56",
+    "uv": true,
+    "license": "CC0-1.0",
+    "status": "prototype; collision actor simplifiee"
+  },
+  {
+    "name": "boat",
+    "vertices": 64,
+    "triangles": 96,
+    "origin": "base z=0",
+    "scale": "map units: player 56",
+    "uv": true,
+    "license": "CC0-1.0",
+    "status": "prototype; collision actor simplifiee"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "origin": "image_gen, common four-view reference sheet",
+  "exports": "technical panel extraction only; no anatomical retouch",
+  "sourceDimensions": [
+    1024,
+    1536
+  ],
+  "views": [
+    "01-dos",
+    "02-profil-pouce",
+    "03-paume",
+    "04-profil-externe"
+  ],
+  "status": "visual modeling references, not calibrated photographs or an existing 3D mesh",
+  "review": "REJECTED: profiles are not coherent with front/back views; do not use this set as calibrated multiview input"
+}

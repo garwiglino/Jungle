@@ -1,0 +1,11 @@
+IWad
+{
+ Name = "CRIQUE — Operation Lisiere"
+ Autoname = "crique"
+ Game = "Doom"
+ Config = "Crique"
+ IWADName = "crique.ipk3"
+ Mapinfo = "mapinfo/mindefaults.txt"
+ MustContain = "CRIQUEID"
+ BannerColors = "18 34 2b", "ce d4 b5"
+}
